@@ -1,1 +1,134 @@
-<mxfile host="app.diagrams.net" modified="2022-10-31T20:44:19.169Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="gmB8Fki8dmiVY7aa5rVM" version="20.5.1" type="github"><diagram id="RBAdvLxjI_K_Cmruik3L" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-31T22:46:47.954Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.6 Safari/605.1.15" etag="aVyOcIIomej3v6EE63_Z" version="20.5.1" type="github">
+  <diagram id="RBAdvLxjI_K_Cmruik3L" name="Page-1">
+    <mxGraphModel dx="881" dy="535" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-2" value="NPC Interactions" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="90" y="150" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-3" value="Lore Objects" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="270" y="150" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="gC6-7ZVIC2RvIrLo4W6S-4" target="gC6-7ZVIC2RvIrLo4W6S-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="gC6-7ZVIC2RvIrLo4W6S-4" target="gC6-7ZVIC2RvIrLo4W6S-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-4" value="Main Quest" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="440" y="150" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="gC6-7ZVIC2RvIrLo4W6S-5" target="gC6-7ZVIC2RvIrLo4W6S-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="gC6-7ZVIC2RvIrLo4W6S-5" target="gC6-7ZVIC2RvIrLo4W6S-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-5" value="Side Quests" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="610" y="150" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-9" value="Static World&lt;br&gt;Entities" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="280" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="gC6-7ZVIC2RvIrLo4W6S-10" target="gC6-7ZVIC2RvIrLo4W6S-24" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-10" value="Quest Items" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="540" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-13" value="Delivery" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="540" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="gC6-7ZVIC2RvIrLo4W6S-24" target="gC6-7ZVIC2RvIrLo4W6S-26" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="1" source="gC6-7ZVIC2RvIrLo4W6S-24" target="gC6-7ZVIC2RvIrLo4W6S-28" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-24" value="Completion" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="540" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-26" value="Rewards" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="540" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-28" value="Removal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
+          <mxGeometry x="700" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-38" style="fontSize=10;" parent="1" />
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-41" value="NPC Interactions" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="gC6-7ZVIC2RvIrLo4W6S-38" vertex="1">
+          <mxGeometry x="90" y="150" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-43" value="Lore Objects" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="gC6-7ZVIC2RvIrLo4W6S-38" vertex="1">
+          <mxGeometry x="270" y="150" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;" parent="gC6-7ZVIC2RvIrLo4W6S-38" source="gC6-7ZVIC2RvIrLo4W6S-46" target="gC6-7ZVIC2RvIrLo4W6S-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fontSize=20;" parent="gC6-7ZVIC2RvIrLo4W6S-38" source="gC6-7ZVIC2RvIrLo4W6S-46" target="gC6-7ZVIC2RvIrLo4W6S-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-46" value="Main Quest" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="gC6-7ZVIC2RvIrLo4W6S-38" vertex="1">
+          <mxGeometry x="440" y="150" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fontSize=20;" parent="gC6-7ZVIC2RvIrLo4W6S-38" source="gC6-7ZVIC2RvIrLo4W6S-49" target="gC6-7ZVIC2RvIrLo4W6S-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;fontSize=20;" parent="gC6-7ZVIC2RvIrLo4W6S-38" source="gC6-7ZVIC2RvIrLo4W6S-49" target="gC6-7ZVIC2RvIrLo4W6S-55" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-49" value="Side Quests" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="gC6-7ZVIC2RvIrLo4W6S-38" vertex="1">
+          <mxGeometry x="610" y="150" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-51" value="Conversation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="gC6-7ZVIC2RvIrLo4W6S-38" vertex="1">
+          <mxGeometry x="105" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-53" value="Static World&lt;br&gt;Entities" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="gC6-7ZVIC2RvIrLo4W6S-38" vertex="1">
+          <mxGeometry x="280" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="gC6-7ZVIC2RvIrLo4W6S-38" source="gC6-7ZVIC2RvIrLo4W6S-55" target="gC6-7ZVIC2RvIrLo4W6S-63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-55" value="Quest Items" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="gC6-7ZVIC2RvIrLo4W6S-38" vertex="1">
+          <mxGeometry x="540" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-57" value="Lore Database" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="gC6-7ZVIC2RvIrLo4W6S-38" vertex="1">
+          <mxGeometry x="280" y="380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-59" value="Speech&lt;br&gt;Database" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="gC6-7ZVIC2RvIrLo4W6S-38" vertex="1">
+          <mxGeometry x="105" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-60" value="Delivery" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="gC6-7ZVIC2RvIrLo4W6S-38" vertex="1">
+          <mxGeometry x="540" y="270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;" parent="gC6-7ZVIC2RvIrLo4W6S-38" source="gC6-7ZVIC2RvIrLo4W6S-63" target="gC6-7ZVIC2RvIrLo4W6S-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" parent="gC6-7ZVIC2RvIrLo4W6S-38" source="gC6-7ZVIC2RvIrLo4W6S-63" target="gC6-7ZVIC2RvIrLo4W6S-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-63" value="Completion" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="gC6-7ZVIC2RvIrLo4W6S-38" vertex="1">
+          <mxGeometry x="540" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-64" value="Rewards" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="gC6-7ZVIC2RvIrLo4W6S-38" vertex="1">
+          <mxGeometry x="540" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gC6-7ZVIC2RvIrLo4W6S-65" value="Removal" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;" parent="gC6-7ZVIC2RvIrLo4W6S-38" vertex="1">
+          <mxGeometry x="700" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lje5N1oaN9F28Hz4v_3L-5" value="&lt;b style=&quot;font-size: 16px;&quot;&gt;Story Delivery&lt;br&gt;System&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="355" y="20" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="lje5N1oaN9F28Hz4v_3L-6" value="UI Systems" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lje5N1oaN9F28Hz4v_3L-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="gC6-7ZVIC2RvIrLo4W6S-57" target="lje5N1oaN9F28Hz4v_3L-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lje5N1oaN9F28Hz4v_3L-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=16;" edge="1" parent="1" source="gC6-7ZVIC2RvIrLo4W6S-59" target="lje5N1oaN9F28Hz4v_3L-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
